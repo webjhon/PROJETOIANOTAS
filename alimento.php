@@ -14,7 +14,7 @@
     <div class="justify-content-center text-center my-auto">
         <div class="col-xl-6 mx-auto">
             <img src="imagens/20220518-ilustracao-ia-transparente.png" alt="logomarca do projeto" class="img-fluid" height="350vh" width="350vh">
-                <form action="php/recebe.php" method="POST" class="">
+                <form action="php/recebe_post.php" method="POST" class="">
                     <input type="text" name="nome" id="nome" class="form-control mx-auto" placeholder="Digite seu nome">
                     <div class="form-group">
                       <label for="notas"></label>
