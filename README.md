@@ -22,3 +22,12 @@ python3 chatbot.py
 
 Digite `sair` para encerrar a conversa.
 
+
+## Interface Web
+
+O projeto possui agora uma página inicial `index.html` criada com Bootstrap. Ela permite acessar duas funcionalidades principais:
+
+- **Alimentar IA**: formário disponível em `alimento.php` para registrar novos dados no banco.
+- **Chatbot**: interface web em `chatbot.php` para consultar o planejamento de aulas diretamente pelo navegador.
+
+Basta abrir `index.html` em um servidor PHP para utilizar a aplicação.
